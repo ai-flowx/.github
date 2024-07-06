@@ -1,9 +1,9 @@
 ````
 $ hi, what's shai?
 
-shait, shell with ai superpowers🚀
+shait, shell with ai superpowers.🚀
 
-$ great! show shai features🌟
+$ great! show shai features please.
 
 1. artifactgpt
    analyze artifact component with gpt
