@@ -1,4 +1,4 @@
-````
+```
 $ hi, what's shai?
 
 shai, shell with ai superpowers.🚀
@@ -25,3 +25,5 @@ $ great! show shai features please.
 
 $ awesome!🤩
 ```
+
+![arch](arch.png "shai architecture")
