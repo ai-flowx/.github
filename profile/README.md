@@ -1,7 +1,7 @@
 ````
 $ hi, what's shai?
 
-shait, shell with ai superpowers.🚀
+shai, shell with ai superpowers.🚀
 
 $ great! show shai features please.
 
