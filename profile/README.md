@@ -1,5 +1,5 @@
 ````
-$ Hi, what's shai
+$ hi, what's shai
 
 shait, shell with ai superpowers🚀
 
