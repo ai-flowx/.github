@@ -2,34 +2,36 @@
 
 
 
-## Install
+## Record on Windows
+
+```
+# Record
+# Press Win+Shift+R
+
+# Convert
+# https://www.freeconvert.com/convert/mp4-to-gif
+```
+
+
+
+## Record on Ubuntu
 
 ```bash
+# Install
 sudo apt install -y asciinema
-```
 
-
-
-## Record
-
-```bash
-# Press ctrl+d to exit
+# Record (press ctrl+d to exit)
 asciinema rec demo.cast
-```
 
-
-
-## Play
-
-```bash
+# Play
 asciinema play demo.cast
-```
 
+# Convert
+sudo apt install -y snapd
+sudo snap install asciinema-agg
+asciinema-agg demo.cast demo.gif
 
-
-## Share
-
-```bash
+# Share
 asciinema auth
 asciinema upload demo.cast
 ```

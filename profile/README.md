@@ -1,3 +1,3 @@
-[![asciicast](https://asciinema.org/a/667120.svg)](https://asciinema.org/a/667120)
+![demo](demo.gif "shai demo")
 
 ![arch](arch.png "shai architecture")
