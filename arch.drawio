@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" scale="2" border="0">
     <diagram id="lRwunp---gVruRk167lT" name="Page-1">
-        <mxGraphModel dx="1733" dy="2521" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="3230" dy="4413" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -140,7 +140,7 @@
                     <mxGeometry x="1721.27" y="1231.99" width="74" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="64" value="&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 119, 255); font-weight: bold; font-size: 22px;&quot;&gt;drive&lt;br&gt;&lt;/span&gt;&lt;font color=&quot;#0077ff&quot; style=&quot;&quot;&gt;muxer&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0077FF;fillColor=none;shadow=0;" parent="1" vertex="1">
-                    <mxGeometry x="1418.3700000000001" y="1211.05" width="200" height="100" as="geometry"/>
+                    <mxGeometry x="1408.5600000000002" y="1210.59" width="200" height="100" as="geometry"/>
                 </mxCell>
                 <mxCell id="65" value="&lt;font color=&quot;#0077ff&quot; style=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0077FF;fillColor=none;shadow=0;" parent="1" vertex="1">
                     <mxGeometry x="1826.28" y="687.9300000000001" width="333.25" height="1145.31" as="geometry"/>
@@ -157,18 +157,15 @@
                 <mxCell id="69" value="&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 119, 255); font-weight: bold; font-size: 22px;&quot;&gt;rerank&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 119, 255);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); color: rgb(0, 119, 255); font-size: 14px;&quot;&gt;rerank model&lt;/font&gt;&lt;font color=&quot;#0077ff&quot; style=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0077FF;fillColor=none;shadow=0;" parent="1" vertex="1">
                     <mxGeometry x="1892.9099999999999" y="1440.5500000000002" width="200" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="80" value="&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 119, 255); font-size: 22px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;rpc&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 119, 255);&quot;&gt;rpc server&lt;/span&gt;&lt;font color=&quot;#0077ff&quot; style=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0077FF;fillColor=none;shadow=0;" parent="1" vertex="1">
-                    <mxGeometry x="1115.3700000000001" y="1122.8" width="200" height="100" as="geometry"/>
+                <mxCell id="81" value="&lt;font color=&quot;#0077ff&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;http&lt;br&gt;&lt;/b&gt;&lt;/span&gt;ollama/studio api&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0077FF;fillColor=none;shadow=0;" parent="1" vertex="1">
+                    <mxGeometry x="1125.19" y="1210.84" width="200" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="81" value="&lt;font color=&quot;#0077ff&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;openai&lt;br&gt;&lt;/b&gt;&lt;/span&gt;http server&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0077FF;fillColor=none;shadow=0;" parent="1" vertex="1">
-                    <mxGeometry x="1115.3700000000001" y="1299.05" width="200" height="100" as="geometry"/>
-                </mxCell>
-                <mxCell id="84" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=1;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0077FF;" parent="1" source="80" target="64" edge="1">
+                <mxCell id="84" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=1;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0077FF;" parent="1" source="174" target="64" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="1341.37" y="1357.8" as="sourcePoint"/>
+                        <mxPoint x="1315.3699999999994" y="1172.8000000000002" as="sourcePoint"/>
                         <mxPoint x="1391.37" y="1307.8" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="1356.37" y="1217.8"/>
+                            <mxPoint x="1364" y="1150"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -253,8 +250,8 @@
                         <mxPoint x="535.7199999999998" y="1879.24" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="167" value="&lt;span style=&quot;color: rgb(0, 119, 255); font-size: 14px;&quot;&gt;SIGNAL&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="526.2199999999999" y="1841.06" width="74" height="30" as="geometry"/>
+                <mxCell id="167" value="&lt;span style=&quot;color: rgb(0, 119, 255); font-size: 14px;&quot;&gt;API&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="526.22" y="1841.06" width="42.78" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="168" value="&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 119, 255); font-weight: bold; font-size: 22px;&quot;&gt;local slm&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 119, 255);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); color: rgb(0, 119, 255); font-size: 14px;&quot;&gt;chat &amp;amp; code model&lt;/font&gt;&lt;font color=&quot;#0077ff&quot; style=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0077FF;fillColor=none;shadow=0;" parent="1" vertex="1">
                     <mxGeometry x="1826.28" y="1879.06" width="333.25" height="100" as="geometry"/>
@@ -270,6 +267,22 @@
                 </mxCell>
                 <mxCell id="171" value="&lt;span style=&quot;color: rgb(0, 119, 255); font-size: 14px;&quot;&gt;API&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1178.37" y="1899.06" width="74" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="173" value="&lt;font color=&quot;#0077ff&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;proxy&lt;br&gt;&lt;/b&gt;&lt;/span&gt;aiproxy/studio proxy&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0077FF;fillColor=none;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="1125.19" y="1431.59" width="200" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="174" value="&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 119, 255); font-size: 22px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;rpc&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 119, 255);&quot;&gt;ollama/studio api&lt;/span&gt;&lt;font color=&quot;#0077ff&quot; style=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0077FF;fillColor=none;shadow=0;" vertex="1" parent="1">
+                    <mxGeometry x="1125.19" y="989.5899999999999" width="200" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="178" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=1;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0077FF;" edge="1" parent="1" source="173" target="64">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1335.19" y="1049.5900000000001" as="sourcePoint"/>
+                        <mxPoint x="1418.5600000000004" y="1270.5900000000001" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1364" y="1371"/>
+                            <mxPoint x="1374" y="1160"/>
+                        </Array>
+                    </mxGeometry>
                 </mxCell>
             </root>
         </mxGraphModel>
