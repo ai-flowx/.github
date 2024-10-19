@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" scale="2" border="0">
     <diagram id="8_WlqVr0ZAdrVBBNUXE_" name="Page-1">
-        <mxGraphModel dx="727" dy="2076" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1386" dy="899" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -79,10 +79,10 @@
                 <mxCell id="37" value="&lt;span&gt;OSS&lt;/span&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=0;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="208" y="273" width="49" height="24" as="geometry"/>
                 </mxCell>
-                <mxCell id="42" value="Ollama Desktop" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=0;fontColor=#000000;" parent="1" vertex="1">
+                <mxCell id="42" value="Model Desktop" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=0;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="330.75" y="140" width="96.5" height="24" as="geometry"/>
                 </mxCell>
-                <mxCell id="43" value="OpenAI API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=0;fontColor=#000000;horizontal=0;" parent="1" vertex="1">
+                <mxCell id="43" value="API Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=0;fontColor=#000000;horizontal=0;" parent="1" vertex="1">
                     <mxGeometry x="33" y="503" width="31" height="86" as="geometry"/>
                 </mxCell>
                 <mxCell id="44" value="GPT Cache" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=0;fontColor=#000000;horizontal=0;" parent="1" vertex="1">
