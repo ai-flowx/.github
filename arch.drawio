@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" scale="2" border="0">
     <diagram id="lRwunp---gVruRk167lT" name="Page-1">
-        <mxGraphModel dx="2156" dy="1455" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="2236" dy="899" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -115,7 +115,7 @@
                 <mxCell id="139" value="&lt;font color=&quot;#0077ff&quot; style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;gitgpt&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0077FF;fillColor=none;shadow=0;" parent="1" vertex="1">
                     <mxGeometry x="488.44999999999993" y="721.4799999999999" width="100" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="141" value="&lt;font color=&quot;#0077ff&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: bold; font-size: 22px;&quot;&gt;shflow&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0077FF;fillColor=none;shadow=0;" parent="1" vertex="1">
+                <mxCell id="141" value="&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 119, 255); font-weight: bold; font-size: 22px;&quot;&gt;shflow&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 119, 255);&quot;&gt;&lt;font color=&quot;#0077ff&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;ai framework&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0077FF;fillColor=none;shadow=0;" parent="1" vertex="1">
                     <mxGeometry x="16.16999999999996" y="1159.1799999999996" width="200" height="100" as="geometry"/>
                 </mxCell>
                 <mxCell id="145" value="shflow" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;fontColor=#0077FF;" parent="1" vertex="1">
@@ -175,7 +175,7 @@
                 <mxCell id="199" value="&lt;span style=&quot;color: rgb(0, 119, 255); font-size: 14px;&quot;&gt;HTTP&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="312.96" y="1467.53" width="63.04" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="200" value="&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 119, 255); font-weight: bold; font-size: 22px;&quot;&gt;shtop&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 119, 255);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); color: rgb(0, 119, 255); font-size: 14px;&quot;&gt;model deploy&lt;/font&gt;&lt;font color=&quot;#0077ff&quot; style=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0077FF;fillColor=none;shadow=0;" parent="1" vertex="1">
+                <mxCell id="200" value="&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 119, 255); font-weight: bold; font-size: 22px;&quot;&gt;shtop&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 119, 255);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); color: rgb(0, 119, 255); font-size: 14px;&quot;&gt;model desktop&lt;/font&gt;&lt;font color=&quot;#0077ff&quot; style=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0077FF;fillColor=none;shadow=0;" parent="1" vertex="1">
                     <mxGeometry x="-281.49" y="1887.53" width="1189.97" height="270" as="geometry"/>
                 </mxCell>
                 <mxCell id="201" value="shtop" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;fontColor=#0077FF;" parent="1" vertex="1">
